@@ -17,3 +17,4 @@ public class palindrome {
         }sc.close();
     }
 }
+// first ever file in github
